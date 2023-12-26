@@ -20,8 +20,8 @@
 }
 
 .container{
-    width: 100%;
-    max-width: 350px;    
+    width: 90%;
+    max-width: 400px;    
 }
 
 .search{
@@ -40,7 +40,7 @@
 }
 
 #check:checked ~ .search{
-    max-width: 310px;
+    max-width: 380px;
 }
 
 input{
